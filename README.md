@@ -8,6 +8,6 @@
 
 ```
 
-[The Odin Project](http://www.theodinproject.com/) problem solutions
-[Ruby Monk](http://rubymonk.com) problem solutionss
+* [The Odin Project](http://www.theodinproject.com/) problem solutions  
+* [Ruby Monk](http://rubymonk.com) problem solutions
 
